@@ -18,7 +18,7 @@ I'm a passionate Full Stack Developer with expertise in crafting modern web appl
     ### Project 1: E-commerce App([Link to Project 1](https://thinsil-ecommerce.web.app/))
     ![Project 2](screenshots/project2.png)
     
-    ### Project 2: [Project Name 2](Link to Project 2)
+    ### Project 2: Box Office Apphttps://cyber-rush.github.io/box-office-app/
     ![Project 2](screenshots/project2.png)
     
     ### Project 3: [Project Name 3](Link to Project 3)
