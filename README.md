@@ -16,7 +16,8 @@ I'm a passionate Full Stack Developer with expertise in crafting modern web appl
   ## Project Screenshots
 
 ### Project 1: [Project Name 1](Link to Project 1)
-![Project 1](![image](https://github.com/cyber-rush/cyber-rush/assets/66362774/0c243bd7-e1bd-400c-bda5-afbe702bdbcd)
+![Project 1](![image](https://github.com/cyber-rush/cyber-rush/assets/66362774/aad17aff-6d52-4dab-85d4-04a771abcd6f)
+)
 )
 
 ### Project 2: [Project Name 2](Link to Project 2)
