@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋, I'm Ujjawal
 
-<!--
-**cyber-rush/cyber-rush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer with expertise in crafting modern web applications. Here's a glimpse of my tech stack:
 
-Here are some ideas to get you started:
+## Tech Stack
+- 🌐 JavaScript | Node.js | Express.js
+- ⚛️ React.js | Next.js | Redux
+- 🛠️ MongoDB | Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- 📧 Email: ujjawaljoshi07@gmail.com
+- 💼 LinkedIn: [Ujjawal Joshi](https://www.linkedin.com/in/ujjawal-joshi/)
+
+Feel free to explore my repositories and don't hesitate to reach out! 🚀
+
