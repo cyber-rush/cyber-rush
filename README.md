@@ -13,6 +13,17 @@ I'm a passionate Full Stack Developer with expertise in crafting modern web appl
 - 🛠️ [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   | [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
+  ## Project Screenshots
+
+### Project 1: [Project Name 1](Link to Project 1)
+![Project 1](screenshots/project1.png)
+
+### Project 2: [Project Name 2](Link to Project 2)
+![Project 2](screenshots/project2.png)
+
+### Project 3: [Project Name 3](Link to Project 3)
+![Project 3](screenshots/project3.png)
+
 ## Connect with Me
 - 📧 Email: ujjawaljoshi07@gmail.com
 - 💼 LinkedIn: [Ujjawal Joshi](https://www.linkedin.com/in/ujjawal-joshi/)
