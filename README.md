@@ -13,15 +13,15 @@ I'm a passionate Full Stack Developer with expertise in crafting modern web appl
 - 🛠️ [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   | [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
-  ## Projects At A Glance
+## Projects At A Glance
 
-    ### Project 1: E-commerce App([Link to Project 1](https://thinsil-ecommerce.web.app/))
-     • Developed a feature-rich e-commerce web application using React.js, Tailwind CSS, Firebase, and Toast for notifications.
-     • Deployed seamlessly on Firebase, showcasing proficiency in frontend development, database integration, and responsive design.
-    
-    ### Project 2: Box Office App([Link to Project 3](https://cyber-rush.github.io/box-office-app/))
-     • Developed a progressive web app using React, React Query, and Styled Components to create a responsive and visually appealing box-office application.
-     • Utilized the TVMaze API for real-time data, implementing seamless user experience and deployed the app on GitHub Pages.
+  ### Project 1: E-commerce App([Link to Project 1](https://thinsil-ecommerce.web.app/))
+   - Developed a feature-rich e-commerce web application using React.js, Tailwind CSS, Firebase, and Toast for notifications.
+   - Deployed seamlessly on Firebase, showcasing proficiency in frontend development, database integration, and responsive design.
+  
+  ### Project 2: Box Office App([Link to Project 2](https://cyber-rush.github.io/box-office-app/))
+   - Developed a progressive web app using React, React Query, and Styled Components to create a responsive and visually appealing box-office application.
+   - Utilized the TVMaze API for real-time data, implementing seamless user experience, and deployed the app on GitHub Pages.
     
 
 ## Connect with Me
