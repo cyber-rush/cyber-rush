@@ -17,10 +17,11 @@ I'm a passionate Full Stack Developer with expertise in crafting modern web appl
 
     ### Project 1: E-commerce App([Link to Project 1](https://thinsil-ecommerce.web.app/))
      • Developed a feature-rich e-commerce web application using React.js, Tailwind CSS, Firebase, and Toast for notifications.
-     • Deployed seamlessly on Vercel, showcasing proficiency in frontend development, database integration, and responsive design.
+     • Deployed seamlessly on Firebase, showcasing proficiency in frontend development, database integration, and responsive design.
     
     ### Project 2: Box Office App([Link to Project 3](https://cyber-rush.github.io/box-office-app/))
-    ![Project 2](screenshots/project2.png)
+     • Developed a progressive web app using React, React Query, and Styled Components to create a responsive and visually appealing box-office application.
+     • Utilized the TVMaze API for real-time data, implementing seamless user experience and deployed the app on GitHub Pages.
     
 
 ## Connect with Me
