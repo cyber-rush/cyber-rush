@@ -15,7 +15,7 @@ I'm a passionate Full Stack Developer with expertise in crafting modern web appl
 
   ## Project Screenshots
 
-### Project 1: [Project Name 1](Link to Project 1)
+### Project 1: [E-commerce App]([Link to Project 1](https://thinsil-ecommerce.web.app/))
 ![Project 1](![image](https://github.com/cyber-rush/cyber-rush/assets/66362774/aad17aff-6d52-4dab-85d4-04a771abcd6f)
 )
 )
