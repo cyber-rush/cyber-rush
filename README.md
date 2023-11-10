@@ -15,16 +15,14 @@ I'm a passionate Full Stack Developer with expertise in crafting modern web appl
 
   ## Project Screenshots
 
-### Project 1: [E-commerce App]([Link to Project 1](https://thinsil-ecommerce.web.app/))
-![Project 1](![image](https://github.com/cyber-rush/cyber-rush/assets/66362774/aad17aff-6d52-4dab-85d4-04a771abcd6f)
-)
-)
-
-### Project 2: [Project Name 2](Link to Project 2)
-![Project 2](screenshots/project2.png)
-
-### Project 3: [Project Name 3](Link to Project 3)
-![Project 3](screenshots/project3.png)
+    ### Project 1: E-commerce App([Link to Project 1](https://thinsil-ecommerce.web.app/))
+    ![Project 2](screenshots/project2.png)
+    
+    ### Project 2: [Project Name 2](Link to Project 2)
+    ![Project 2](screenshots/project2.png)
+    
+    ### Project 3: [Project Name 3](Link to Project 3)
+    ![Project 3](screenshots/project3.png)
 
 ## Connect with Me
 - 📧 Email: ujjawaljoshi07@gmail.com
